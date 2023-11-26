@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Bazil (@M3M397)
 - 👀 I’m interested in creating visually appealing and user-friendly web interfaces.
-- 🌱 I have learned HTML, CSS, and JavaScript, enhancing my frontend development skills.
+- 🌱 I have learned HTML, CSS, JavaScript, and SASS enhancing my frontend development skills.
 - 💞️ I’m looking to collaborate on beginner-friendly frontend projects or learning resources.
 - 📫 How to reach me: You can contact me at bazil13579@gmail.com. I'm also available on GitHub.
