@@ -1,11 +1,16 @@
 ### Hi there, I'm Muhammad Bazil 👋
 
-I am a **Data Science Undergraduate** based in Karachi. I am transitioning from Front-End Development to Data Science, with a passion for uncovering insights from data and presenting them through beautiful, interactive interfaces.
+I am a first-year Data Science student based in Karachi with a focused interest in statistical analysis, machine learning, and data-driven problem solving.
 
-- **Current Status:** Pursuing a Degree in Data Science.
-- **I’m currently working on:** Exploratory Data Analysis (EDA) and Machine Learning fundamentals.
-- **Fun fact:** I can clean data *and* make it look good on a webpage.
+With a background in front-end development, I combine analytical thinking with structured presentation — enabling me to extract insights from data and communicate them effectively through clean, user-oriented solutions.
 
+My current areas of development include:
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Feature Engineering
+- Foundations of Machine Learning
+- Core Statistical Concepts
+
+I actively build practical projects to apply theoretical knowledge to real-world datasets.
 ---
 
 ### 🛠️ Tech Stack
@@ -14,7 +19,6 @@ I am a **Data Science Undergraduate** based in Karachi. I am transitioning from 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **GUI & Desktop Apps:**
 ![Tkinter](https://img.shields.io/badge/Tkinter-Blue?style=for-the-badge&logo=python&logoColor=white)
