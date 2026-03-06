@@ -22,6 +22,7 @@ I actively build practical projects to apply theoretical knowledge to real-world
 
 **GUI & Desktop Apps:**
 ![Tkinter](https://img.shields.io/badge/Tkinter-Blue?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Web Front-End:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
