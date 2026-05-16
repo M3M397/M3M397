@@ -2,7 +2,7 @@
 
 I am a first-year Data Science student with a focused interest in statistical analysis, machine learning, and data-driven problem solving.
 
-With a background in front-end development, I combine analytical thinking with structured presentation — enabling me to extract insights from data and communicate them effectively through clean, user-oriented solutions.
+With a background in front-end development, I combine analytical thinking with structured presentation enabling me to extract insights from data and communicate them effectively through clean, user-oriented solutions.
 
 My current areas of development include:
 - Exploratory Data Analysis (EDA)
